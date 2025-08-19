@@ -1,0 +1,10 @@
+<!-- public/images/hero.svg -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17 20H7C4.79086 20 3 18.2091 3 16V10C3 7.79086 4.79086 6 7 6H17C19.2091 6 21 7.79086 21 10V16C21 18.2091 19.2091 20 17 20Z" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 6V4C7 3.44772 7.44772 3 8 3H16C16.5523 3 17 3.44772 17 4V6" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 16L7 20" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 16L17 20" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="8.5" cy="13.5" r="1.5" fill="#FFFFFF"/>
+<circle cx="15.5" cy="13.5" r="1.5" fill="#FFFFFF"/>
+<path d="M3 10H21" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
